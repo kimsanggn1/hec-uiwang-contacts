@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "2026 앙빵 송년회 VVIP 초대장",
+  "short_name": "앙빵 VVIP",
+  "description": "2026 앙빵 계모임 제6회 송년회 초대장 · 참석·결산 · 비상연락망",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF6EC",
+  "theme_color": "#FBF6EC",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
