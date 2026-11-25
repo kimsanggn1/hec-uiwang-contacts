@@ -1,4 +1,4 @@
-/* 앙빵계 비상연락처 — 오프라인 캐시 Service Worker (build 8148e0ccdc) */
+/* 앙빵계 비상연락처 — 오프라인 캐시 Service Worker (build 63550fcf09) */
 const CACHE = "angbbang-v1";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./team_banner.jpg"];
 
