@@ -1,5 +1,5 @@
-/* 2026 앙빵 송년회 VVIP 초대장 — 오프라인 캐시 Service Worker (build e9256bc138) */
-const CACHE = "angbbang-vip-v1";
+/* 2026 앙빵 송년회 VVIP 초대장 — 오프라인 캐시 Service Worker (build f04bc51c5c) */
+const CACHE = "angbbang-vip-v2";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (e) => {
